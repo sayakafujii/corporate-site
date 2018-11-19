@@ -327,6 +327,12 @@ h1 {
   color: #626262;
   font-size: 1.4rem; }
 
+#contents #main th {
+  padding: 20px 0;
+  color: #626262;
+  font-size: 1.4rem;
+  font-weight: bold; }
+
 /**************************************/
 @media (max-width: 550px) {
   #contents #sidebar .pc_sidemenu {
@@ -341,6 +347,11 @@ h1 {
     font-size: 3.2rem;
     font-weight: bold;
     margin: 0;
-    letter-spacing: 0.2rem; } }
+    letter-spacing: 0.2rem; }
+
+  #contents #main h2 {
+    font-size: 20px;
+    font-size: 2rem;
+    padding-bottom: 20px; } }
 
 /*# sourceMappingURL=sample.css.map */
